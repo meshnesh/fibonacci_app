@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LynkBrave</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="are_you_a_new_customer">Are You A New Customer</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_number">Enter your Number</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="email">Email</string>
+    <string name="prompt_email">Enter any Email</string>
+    <string name="prompt_number">Enter number Limit</string>
+    <string name="passwordText">Password</string>
+    <string name="password">Enter any Password</string>
+    <string name="login">Login</string>
+    <string name="generate_fibonacci">Generate Fibonacci</string>
+    <string name="option">Contact support if you can\'t log in</string>
+
+    <string name="second_list">This List filters the Fibonacci List:\n second_list = [1, 89, 7, 40, 0, 7, 8, 34, 21, 55, 91, 100, 24, 28, 103, 144] </string>
+
+    <string name="Filterd_list">This is the filteredList:\n second_list: %s</string>
+</resources>
